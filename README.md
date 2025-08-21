@@ -33,7 +33,7 @@ PRs are welcome for all of these. Feel free to submit issues. I'll probably take
 
 This project does not currently support flatpak installations of Anki.
 
-This program was tested with a modern version of Anki (v25.07.5) on Linux. I referenced the documentation but did actually test run to verify the correct anki2 collection file location for antiquated versions of Anki or other distros (Windows/Mac). If it's wrong it won't break anything, so give it a shot and drop an issue report.
+The latest commit of this program was tested with a modern version of Anki (v25.07.5) on Linux, Mac, and Windows and worked as expected.
 
 ## Disclaimer
 This project is a pebble that relies on boulders like Anki that relies on mountains like Qt6 that relies on planets of OS's. At any point one of these things could change and this project may no longer work.
